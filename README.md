@@ -42,6 +42,4 @@ This project implements a data warehouse analytics solution for customer and pro
 
 - All CSV files are located in `datasets/csv-files/`.
 
-## License
 
-This project is for educational and
